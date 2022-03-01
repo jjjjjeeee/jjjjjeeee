@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# :cherry_blossom::blossom::rose:JUNG EUN:hibiscus::sunflower::tulip:
+# :blossom:JUNG EUN:sunflower:
 ## _:baby_chick:development_
 <br><br>
 ## :raised_hands:Contact me
