@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# :cherry_blossom::blossom::rose:JUNG EUN:hibiscus::sunflower::tulip:
+## _:baby_chick:development_
+--------------------------------------
+
+## Contact me
+
+- csl6901@naver.com
+- monami6901@gmail.com
+
+## Tech
+<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=#3776AB&logoColor=white"/></a>&nbsp 
+
+## License
+
+- ADsP
+- SQLD
