@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # :blossom:JUNG EUN:sunflower:
-## _:baby_chick:development_
+### _:baby_chick:development_
 <br><br>
 ## :raised_hands:Contact me
 
